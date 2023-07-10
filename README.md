@@ -2,7 +2,7 @@
 My Name is Jack Ohrn, a full stack developer that has recently gradiated from Coding Dojo's Full Stack Bootcamp. <br>
 🛸Mastery in React🛸 <br>
 📡 Other technologies below 📡 <br>
-<li>
+<ul>
       <ul>👾 JAVA </ul>
      <ul> 👾 Python </ul>
      <ul> 👾 JavaScript </ul>
@@ -10,5 +10,5 @@ My Name is Jack Ohrn, a full stack developer that has recently gradiated from Co
      <ul> 👾 MongoDB </ul>
       <ul>👾 THREE.JS </ul>
       <ul>👾 SPRING  </ul>
-</li>
+</ul>
 📲 Currently working on Open Source 
