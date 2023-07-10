@@ -14,3 +14,8 @@ My Name is Jack Ohrn, a full stack developer that has recently graduated from Co
       <ul>👾 SPRING  </ul>
 </ul>
 📲 Currently working on Open Source 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ohxrn/count.svg" />
+</p>
