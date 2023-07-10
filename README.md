@@ -7,6 +7,7 @@ My Name is Jack Ohrn, a full stack developer that has recently gradiated from Co
      <ul> 👾 Python </ul>
        <ul> 👾 Flask </ul>
      <ul> 👾 JavaScript </ul>
+         <ul> 👾 Express </ul>
       <ul>👾 MySql </ul>
      <ul> 👾 MongoDB </ul>
       <ul>👾 THREE.JS </ul>
