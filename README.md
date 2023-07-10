@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋 (Fellow Tech enthusiasts)
 My Name is Jack Ohrn, a full stack developer that has recently gradiated from Coding Dojo's Full Stack Bootcamp. <br>
 🛸Mastery in React🛸 <br>
 📡 Other technologies below 📡 <br>
