@@ -33,15 +33,12 @@ React is my go-to front-end library, and I take pride in crafting intuitive and 
    Check out this interactive cloud that showcases my tech stack expertise:
    ![Tech Stack Cloud](https://img.shields.io/badge/Tech%20Stack-React%20%7C%20Flask%20%7C%20Python%20%7C%20JavaScript%20%7C%20Java%20%7C%20MongoDB%20%7C%20MySql%20%7C%20Express%20%7C%20THREE.JS%20%7C%20Spring-blueviolet)
 
-2. ##### Live Chat Support
-   Feel free to chat with me live about tech, coding, or anything else you'd like to discuss:
-   [![Chat with me](https://img.shields.io/badge/Chat%20with%20me-Live%20Chat-brightgreen)](https://slack.com/ohxrn)
 
-3. ##### Tech Blog
+2. ##### Tech Blog
    I regularly share my insights, tips, and tricks on my tech blog. Check it out for some interesting reads:
    [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-Read%20Now-blue)](https://medium.com/@ohxrn)
 
-4. ##### GitHub Stats
+3. ##### GitHub Stats
    Here are some cool stats about my GitHub activity:
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohxrn&show_icons=true&count_private=true&hide=prs&theme=dark)
 
