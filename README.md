@@ -45,4 +45,4 @@ React is my go-to front-end library, and I take pride in crafting intuitive and 
 
 
 #### 🚀 Let's Build the Future Together 🚀
-I'm always open to new oppor
+I'm always open to new opportunities.
