@@ -38,11 +38,6 @@ React is my go-to front-end library, and I take pride in crafting intuitive and 
    I regularly share my insights, tips, and tricks on my tech blog. Check it out for some interesting reads:
    [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-Read%20Now-blue)](https://medium.com/@ohxrn)
 
-3. ##### GitHub Stats
-   Here are some cool stats about my GitHub activity:
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohxrn&show_icons=true&count_private=true&hide=prs&theme=dark)
-
-
 
 #### 🚀 Let's Build the Future Together 🚀
 I'm always open to new opportunities.
