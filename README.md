@@ -34,10 +34,5 @@ React is my go-to front-end library, and I take pride in crafting intuitive and 
    ![Tech Stack Cloud](https://img.shields.io/badge/Tech%20Stack-React%20%7C%20Flask%20%7C%20Python%20%7C%20JavaScript%20%7C%20Java%20%7C%20MongoDB%20%7C%20MySql%20%7C%20Express%20%7C%20THREE.JS%20%7C%20Spring-blueviolet)
 
 
-2. ##### Tech Blog
-   I regularly share my insights, tips, and tricks on my tech blog. Check it out for some interesting reads:
-   [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-Read%20Now-blue)](https://medium.com/@ohxrn)
-
-
 #### 🚀 Let's Build the Future Together 🚀
 I'm always open to new opportunities.
