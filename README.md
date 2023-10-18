@@ -4,12 +4,14 @@
 
 My name is Jack Ohrn, and I'm a passionate full-stack developer who recently graduated from Coding Dojo's Full Stack Bootcamp. I thrive in creating exciting and innovative web applications that push the boundaries of technology.
 
-#### 🛸 Mastery in React 🛸
+#### 🛸 Mastery in React + React Native🛸
 React is my go-to front-end library, and I take pride in crafting intuitive and user-friendly interfaces using this powerful technology.
 
 #### 📡 Other technologies I excel in 📡
 <ul>
     <li>👾 JAVA</li>
+    <li>👾 Firebase</li>
+    <li>👾 Socket.io</li>
     <li>👾 Python</li>
     <li>👾 Flask</li>
     <li>👾 JavaScript</li>
